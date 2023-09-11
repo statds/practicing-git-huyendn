@@ -1,1 +1,3 @@
 GitHub Skills offers free interactive courses that are built into GitHub with instant automated feedback and help. Learn to open your first pull request, make your first open source contribution, create a GitHub Pages site, and more.
+
+Become bitter acquainted with GitHub through our gitting started articles. Sea our GitHub flow for a process introduction. Refer to our overview guides to walk through basic concepts.
